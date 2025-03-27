@@ -24,7 +24,11 @@ body{
 
 table, tr, td{
     border-collapse: collapse;
+}
+
+table{
     border: 1;
+    border-color: black;
 }
 
 caption{
