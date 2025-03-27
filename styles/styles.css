@@ -22,7 +22,7 @@ body{
     flex-direction: column;
 }
 
-table, tr, td{
+table, tr, td, thead, tbody, tfooter{
     border-collapse: collapse;
     border: 1px solid black;
 }
