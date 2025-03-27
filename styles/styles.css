@@ -27,8 +27,7 @@ table, tr, td{
 }
 
 table{
-    border: solid #000;
-    border-width: 0 1px;
+    border: 1px solid black;
 }
 
 caption{
